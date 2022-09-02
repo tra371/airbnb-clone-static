@@ -1,0 +1,19 @@
+.hero-pic {
+    display: block;
+    margin: 26px auto;
+}
+
+.hero-text {
+    line-height: 1.2;
+}
+
+.hero-text > h1 {
+    font-size: 36px;
+    margin-block: 1rem;
+    font-weight: 600;
+}
+
+.hero-text > p {
+    width: 320px;
+    font-weight: 300;
+}

@@ -1,0 +1,14 @@
+.navbar {
+    color: var(--logo-color);
+    height: 70px;
+    padding: 0 30px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 3px 7.5px #00000010;
+}
+
+.icon-airbnb {
+    margin-right: 0.5rem;
+}
