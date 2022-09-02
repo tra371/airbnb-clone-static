@@ -2,7 +2,13 @@
     position: relative;
 }
 
-.card-text {
+.card-pic {
+    width: 176px;
+    height: 235px;
+    border-radius: 9px;
+}
+
+.card-badge {
     position: absolute;
     top: -5px;
     left: 5px;
@@ -21,10 +27,11 @@
 }
 
 .card {
+    width: 176px;
     margin-right: 18px;
 }
 
 .card > p {
     margin-block: 0;
     font-size: 12px;
-  }
+}
